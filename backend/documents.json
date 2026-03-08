@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Reset Password",
+    "content": "Users can reset their password by going to Settings and selecting Security."
+  },
+  {
+    "title": "Update Profile",
+    "content": "Users can update their profile information from the profile page."
+  },
+  {
+    "title": "Delete Account",
+    "content": "Users can permanently delete their account from account settings."
+  },
+  {
+    "title": "Change Email",
+    "content": "Users can change their registered email address in account settings."
+  },
+  {
+    "title": "Two Factor Authentication",
+    "content": "Users can enable two factor authentication from the security settings."
+  }
+]
